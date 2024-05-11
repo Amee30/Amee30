@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">a Student From Bali State Polytechnic, Majoring in  Software Engineering Technology</p>
+<p align="left">a Ordinary Student From Bali State Polytechnic, Majoring in  Software Engineering Technology</p>
 
 ###
 
